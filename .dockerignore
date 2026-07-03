@@ -1,0 +1,14 @@
+# most important to ignore
+node_modules/
+.env
+data/
+.gitignore
+.git
+
+# future proof, for future collaboration on MAcOS, automatic logs
+.vscode/
+.idea/
+*.log
+coverage/
+.DS_Store
+Thumbs.db
